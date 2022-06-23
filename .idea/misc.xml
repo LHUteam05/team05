@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/lin/app/src/main/res/layout/activity_buffet.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/lin/app/src/main/res/layout/activity_car.xml" value="0.2509057971014493" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/lin/app/src/main/res/layout/activity_coffee.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/lin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/lin/app/src/main/res/layout/activity_mondown.xml" value="0.34057971014492755" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/lin/app/src/main/res/layout/activity_monup.xml" value="0.34057971014492755" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
